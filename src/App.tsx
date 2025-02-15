@@ -1,4 +1,5 @@
-import Login from "./Component/Opsi1/Login"
+import Navbar from "./Component/Navbar/Navbar"
+// import Login from "./Component/Opsi1/Login"
 // import Register from "./Component/Opsi1/Register"
 
 function App() {
@@ -6,7 +7,8 @@ function App() {
   return (
     <div className="">
       {/* <Register/> */}
-      <Login/>
+      {/* <Login/> */}
+      <Navbar />
     </div>
   )
 }
