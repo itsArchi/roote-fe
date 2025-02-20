@@ -1,7 +1,7 @@
 const ResetPassword = () => {
   return (
-    <div className="flex justify-center items-center h-screen">
-      <div className="rounded-lg p-20">
+    <div className="bg-primary flex justify-center items-center h-screen">
+      <div className="bg-white rounded-lg p-20">
         <div className="flex flex-col gap-4 p-10">
           <div className="flex flex-col justify-center items-center px-10 gap-4 text-center">
             <img className="w-[160px]" src="/logo.png" alt="" />
